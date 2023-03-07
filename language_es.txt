@@ -1,12 +1,12 @@
 {
 	"model" : 0,
 	"revision" : 0,
-	"addition" : 1,
+	"addition" : 2,
 
 	"items": [
 		{
 			"id": "id_1",
-			"value": "Titulo en castellano"
+			"value": "Titulo aburrido"
 		},
 		{
 			"id": "id_2",
