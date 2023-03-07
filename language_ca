@@ -1,0 +1,29 @@
+{
+  "model": 0,
+  "revision": 0,
+  "addition": 1,
+
+  "items": [
+    {
+      "id": "id_1",
+      "value": "Títol en Català"
+    },
+    {
+      "id": "id_2",
+      "value": "En un lloc de la Manxa, del nom del qual no vull acordar-me, no hi ha gaire temps que vivia un gentilhome dels de llança en drassana, adarga antiga, rocín flac i llebrer corredor"
+    },
+    {
+      "id": "id_3",
+      "value": "AN"
+    },
+    {
+      "id": "id_4",
+      "value": "ES"
+    },
+    {
+      "id": "id_5",
+      "value": "CA"
+    }
+
+  ]
+}
