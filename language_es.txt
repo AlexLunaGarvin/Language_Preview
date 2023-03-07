@@ -6,7 +6,7 @@
 	"items": [
 		{
 			"id": "id_1",
-			"value": "Titulo MEJORADO!!"
+			"value": "Titulo MEJORADO!"
 		},
 		{
 			"id": "id_2",
