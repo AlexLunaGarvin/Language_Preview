@@ -1,0 +1,29 @@
+{
+	"model" : 0,
+	"revision" : 0,
+	"addition" : 1,
+
+	"items": [
+		{
+			"id": "id_1",
+			"value": "Titulo en castellano"
+		},
+		{
+			"id": "id_2",
+			"value": "En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor"
+		},
+		{
+			"id": "id_3",
+			"value": "IN"
+		},
+		{
+			"id": "id_4",
+			"value": "ES"
+		},
+		{
+			"id": "id_5",
+			"value": "CA"
+		}
+
+	]
+}
